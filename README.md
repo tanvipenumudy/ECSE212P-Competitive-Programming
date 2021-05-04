@@ -2,6 +2,7 @@
 ECSE212P: Competitive Programming Lab Assignments
 
 
-## Problems Solved:
-Codechef: [tanvi2002](https://www.codechef.com/users/tanvi2002)
-Hackerrank: [tanvipenumudy](https://www.hackerrank.com/profile/tanvipenumudy)
+### Problems Solved:
+CodeChef: [tanvi2002](https://www.codechef.com/users/tanvi2002)
+
+HackerRank: [tanvipenumudy](https://www.hackerrank.com/profile/tanvipenumudy)
